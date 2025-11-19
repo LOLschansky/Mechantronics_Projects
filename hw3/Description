@@ -1,0 +1,11 @@
+Understanding CDC, IO, and ADC on the Raspberry PI.
+
+This code:
+1. Turns on an LED
+2. Waits until a button is pressed
+3. Turns off the LED
+4. Asks the user to enter a number of analog samples to take, between 1 and 100
+5. Reads the number entered by the user
+6. Reads the voltage on ADC0 that number of times at 100Hz
+7. Prints back the voltages in the units of volts
+8. then loops
