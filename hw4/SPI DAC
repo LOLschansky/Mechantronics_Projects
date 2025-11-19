@@ -1,0 +1,2 @@
+Description:
+Connects the MCP4912 SPI DAC to the RPi Pico. Writes code to output a 2Hz sine wave and a 1Hz triangle wave simultaneously. 
