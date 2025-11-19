@@ -1,0 +1,2 @@
+Description:
+Testing out the Raspberry Pi Pico and the Pico SDK. Simple code blinking k the LED on pin GP25 5 times per second. 
